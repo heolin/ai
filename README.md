@@ -9,5 +9,4 @@ from ai import *
 
 # Donate
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3VJ858Q6BKTE6)
-
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=3VJ858Q6BKTE6&currency_code=PLN&source=url)
